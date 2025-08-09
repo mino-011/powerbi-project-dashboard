@@ -1,0 +1,6 @@
+Project,TaskID,TaskName,Owner,StartDate,EndDate,ProgressPercent,Status
+ProjectA,1,Requirement Definition,Yamada,2025-07-01,2025-07-10,100,Done
+ProjectA,2,Design,Satou,2025-07-11,2025-07-20,60,InProgress
+ProjectA,3,Implementation,Suzuki,2025-07-21,2025-08-05,10,InProgress
+ProjectB,1,Scoping,Tanaka,2025-06-15,2025-06-30,100,Done
+ProjectB,2,POC,Kobayashi,2025-07-01,2025-07-15,80,InProgress
